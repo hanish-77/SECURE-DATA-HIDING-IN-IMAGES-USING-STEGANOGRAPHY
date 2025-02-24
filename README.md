@@ -41,7 +41,13 @@ python steganography.py
 3. Retrieve and view the hidden message.
 
 ## 📸 Screenshots
-(Add screenshots of the UI here)
+
+### Encryption Interface
+![Encryption Screenshot](assets/encryption_screenshot.png)
+
+### Decryption Interface
+![Decryption Screenshot](assets/decryption_screenshot.png)
+
 
 ## 📈 Future Enhancements
 - 🔹 **AES Encryption** – Encrypt messages before hiding them for added security.
